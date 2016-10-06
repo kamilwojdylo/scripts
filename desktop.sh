@@ -3,6 +3,7 @@
 apt-get install -y \
 	xorg \
 	i3 \
+	i3blocks \
 	intel-microcode \
 	i965-va-driver \
 	git \
