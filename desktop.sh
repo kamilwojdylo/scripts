@@ -18,5 +18,8 @@ apt-get install -y \
 	mpv \
 	neovim \
 	feh \
-	aptitude
-
+	aptitude \
+	cups \
+	hplip \
+	hplip-gui \
+	okular
