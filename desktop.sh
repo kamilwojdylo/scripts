@@ -22,4 +22,5 @@ apt-get install -y \
 	cups \
 	hplip \
 	hplip-gui \
-	okular
+	okular \
+	vlc
