@@ -18,6 +18,7 @@ apt-get install -y \
 	mpv \
 	neovim \
     python-pip \
+    python3-pip \
 	feh \
 	aptitude \
 	cups \
