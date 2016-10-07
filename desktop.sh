@@ -17,10 +17,13 @@ apt-get install -y \
 	curl \
 	mpv \
 	neovim \
+    python-pip \
 	feh \
 	aptitude \
 	cups \
 	hplip \
 	hplip-gui \
 	okular \
-	vlc
+	vlc \
+	jmtpfs \
+	unzip
