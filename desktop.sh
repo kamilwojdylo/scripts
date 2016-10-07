@@ -27,4 +27,5 @@ apt-get install -y \
     okular \
     vlc \
     jmtpfs \
-    unzip
+    unzip \
+    silversearcher-ag
